@@ -1,4 +1,4 @@
-package com.bek.androidautomationframework.ui.theme
+package com.bek.androidautomationframework.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

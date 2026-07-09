@@ -1,4 +1,4 @@
-package com.bek.androidautomationframework.ui.theme
+package com.bek.androidautomationframework.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
